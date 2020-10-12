@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./web/src/assets/logo-nlw.png" align="center" width="200" alt="Logo projeto">
+  <img src="./web/src/assets/logo-readme.svg" align="center" width="200" alt="Logo projeto">
 </p>
 
 <h1 align="center" style="border-bottom:none">Next Level Week 3</h1>
